@@ -15,3 +15,10 @@ Based on the results, here are my three business recommendations to the CEO
 2)	Company can also decrease the average fare per ride in Rural city. Currently in Rural city area average fare per ride is $34.62, Suburban city area average fare per ride is $30.97 and in Urban city area average fare per ride is just $24.54, It is $10.08 difference from Rural city area fare ride.
 
 3)	I also notice the type of ride with “NaN” counts are higher in Rural city area, and this is also one if the reason the summary shows with not much of business in first four months of year 2019. Company might see more business in remaining months.
+
+![PyBer percentage of_rides by city type pie chart](PyBer_percentage_of_rides_by_city_type_pie_chart.png)
+
+![PyBer Ride Count Data 2019 Urban Suburban Rural box whisker plot](PyBer_Ride_Count_Data_2019_Urban_Suburban_Rural_box_whisker_plot.png)
+
+![PyBer Ride Count Data 2019 Urban Suburban Rural scatter plot](PyBer_Ride_Count_Data_2019_Urban_Suburban_Rural_scatter_plot.png)
+
