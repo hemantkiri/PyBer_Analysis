@@ -20,5 +20,6 @@ Based on the results, here are my three business recommendations to the CEO
 
 ![PyBer Ride Count Data 2019 Urban Suburban Rural box whisker plot](PyBer_Ride_Count_Data_2019_Urban_Suburban_Rural_box_whisker_plot.png)
 
-![PyBer Ride Count Data 2019 Urban Suburban Rural scatter plot](PyBer_Ride_Count_Data_2019_Urban_Suburban_Rural_scatter_plot.png)
+![PyBer Ride Count Data 2019 Urban Suburban Rural scatter plot](PyBer_Ride_Sharing_Data_2019_Urban_Suburban_Rural_scatter_plot.png
+)
 
